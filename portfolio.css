@@ -1,0 +1,126 @@
+body{
+    margin: 0;
+    background-image: url('background-image.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#nav{
+    background-color: #eee;
+    width: 100%;
+    text-align: center;
+    height: 40px;
+}
+.navbar{
+    vertical-align: middle;
+    font-size: 24px;
+    padding-left: 20px;
+    text-decoration: none;
+    color: black;
+}
+#profile_pic{
+    height: 460px;
+    margin-top: 135px;
+    margin-right: 320px;
+    float: right;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.5);
+}
+#content{
+    margin-top: 262px;
+    margin-left: 310px;
+    max-width: 380px;
+}
+#content h3{
+    text-align: center;
+}
+#content_exp{
+    margin-top: 232px;
+    margin-left: 310px;
+    max-width: 380px;
+}
+#content_exp h3{
+    text-align: center;
+}
+#content_skills{
+    margin-top: 232px;
+    margin-left: 310px;
+    max-width: 380px;
+}
+#content_skills h3{
+    text-align: center;
+}
+#content_education{
+    margin-top: 232px;
+    margin-left: 310px;
+    max-width: 380px;
+}
+#content_education h3{
+    text-align: center;
+}
+#content_qualities{
+    margin-top: 232px;
+    margin-left: 310px;
+    max-width: 380px;
+}
+#content_qualities h3{
+    text-align: center;
+}
+#skill_list{
+    font-size: 18px;
+}
+li{
+    margin-top: 10px;
+}
+.social-icon{
+    Width: 35px;
+    Height: 35px;
+    padding: 10px 10px;
+}
+form{
+    text-align: center;
+    width: 350px;
+    margin-left: 330px;
+    margin-top: 140px;
+    background-color: white;
+    border: 1px solid #ccc;
+}
+#form-heading{
+    font-size: 32px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#social-wrapper{
+    background-color:#f2f6ff ;
+    padding: 20px;
+}
+#input-wrapper{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.input-box{
+    font-size: 18px;
+    padding-bottom: 12px;
+    margin-bottom: 36px;
+    border: 0;
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+}
+#btn-submit{
+    background-color: #0056ff;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+    font-size: 18px;
+    color: white;
+    border: none;
+}
+textarea{
+    width: 100%;
+    margin-bottom: 5px;
+}
+h2{
+    text-align: center;
+    margin-top: 50px;
+}
